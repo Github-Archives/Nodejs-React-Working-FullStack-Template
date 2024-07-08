@@ -12,6 +12,8 @@ This will start both the Backend + Frontend Servers Concurrently
 - Backend ＝ localhost:3000
 - Frontend ＝ localhost:5173
 
+You should now be able to pull up `localhost:5173` in your browser and submit a POST request to `localhost:3000/users` to add a user to the SQLlite database.
+
 ### Packages Installed
 #### Backend:
 - cors → `npm install cors --save-dev`
