@@ -3,14 +3,14 @@ Run frontend/backend concurrently with
 To run both Backend + Frontend concurrently with the package concurrently
 
 Go to the Node.js Backend Directory → /Development/../YourProject/backend/ on your local machine
-- In Terminal Run:
+In Terminal Run:
 
 `npm run dev`
 
-- This will start both the Backend + Frontend Servers Concurrently
+This will start both the Backend + Frontend Servers Concurrently
 
-Backend ＝ localhost:3000
-Frontend ＝ localhost:5173
+- Backend ＝ localhost:3000
+- Frontend ＝ localhost:5173
 
 ### Packages Installed
 #### Backend:
