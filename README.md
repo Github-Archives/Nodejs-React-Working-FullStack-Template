@@ -1,4 +1,6 @@
-# This is the FullStack MonoRepo utilizing a React Frontend with a Node.js Backend
+# Full Stack MonoRepo with React Frontend and Node.js Backend to be used as a template
+
+## This is the FullStack MonoRepo utilizing a React Frontend with a Node.js Backend
 Run frontend/backend concurrently with
 To run both Backend + Frontend concurrently with the package concurrently
 
@@ -13,6 +15,8 @@ This will start both the Backend + Frontend Servers Concurrently
 - Frontend ＝ `localhost:5173`
 
 You should now be able to pull up `localhost:5173` in your browser and submit a POST request to `localhost:3000/users` to add a user to the SQLlite database.
+
+Note: The database is stored in the backend directory as `database.sqlite` which is included in the `.gitignore` file.
 
 ### Packages Installed
 #### Backend:
