@@ -1,6 +1,8 @@
 # Full Stack MonoRepo with React Frontend and Node.js Backend to be used as a template
 
-## This is the FullStack MonoRepo utilizing a React Frontend with a Node.js Backend
+
+### This is the FullStack MonoRepo utilizing a React Frontend with a Node.js Backend
+
 Run frontend/backend concurrently with
 To run both Backend + Frontend concurrently with the package concurrently
 
