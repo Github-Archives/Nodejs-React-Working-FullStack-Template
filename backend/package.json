@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "concurrently \"cd ../backend && npm start\" \"cd ../frontend && npm run dev\""
   },
   "keywords": [],
   "author": "",
