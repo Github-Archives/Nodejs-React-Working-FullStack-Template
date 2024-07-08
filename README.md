@@ -2,7 +2,7 @@
 Run frontend/backend concurrently with
 To run both Backend + Frontend concurrently with the package concurrently
 
-Go to the Node.js Backend Directory → /Development/../AudioTransfer-v0.0.0/backend/ on your local machine
+Go to the Node.js Backend Directory → /Development/../YourProject/backend/ on your local machine
 - In Terminal Run:
 
 `npm run dev`
@@ -20,4 +20,4 @@ Frontend ＝ localhost:5173
 - sqlite3
 - concurrently → `npm install concurrently --save-dev`
 #### Frontend (Built with Vite):
-axios → `npm install axios`
+- axios → `npm install axios`
